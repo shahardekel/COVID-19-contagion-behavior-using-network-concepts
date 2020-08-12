@@ -1,0 +1,2 @@
+# COVID-19-contagion-behavior-using-network-concepts
+during the beginning of 2020 , the coronavirus has begun to spread outside of China and it was a question of time until the virus would begin to spread in Israel. As a preparation for the coming of the plague the government recruited you as a specialists for netwok behavior in order to simulate of the behavior of the contagion among the Israeli community in order to choose the best way in order to prevent a crisis .
